@@ -22,12 +22,24 @@
 
 <div align=center><h1>Career & Academy</h1></div>
 
-<h3>프로젝트기반AI빅데이터융합인재양성과정(K-Dgital) 2021.01 ~ 2021.08</h3>
+<h3>프로젝트기반AI빅데이터융합인재양성과정(K-Dgital) - 2021.01 ~ 2021.08</h3>
 <h4>통계, 파이썬을 기초로 머신러닝 딥러닝 교육 이수</h4>
 <details>
   <summary style="color:red">Related project</summary>
   <div markdown="1">
     <h4><a href="https://github.com/flowof/KDT-statistics">통계</a></h4>
+  </div>
+</details>
+
+<h3>BespinGlobal Techcenter클라우드청년인재양성과정 - 2022.05 ~ 2022.12</h3> 
+<h4>Basic learning of Network, Linux, AWS, Azure, GCP, Docker, k8s, etc..</h4>
+<details>
+  <summary style="color:red">Related project</summary>
+  <div markdown="1">
+    <h4><a href="https://github.com/BAE-JI-WANG/AWS3_3Tier">Spring petclinic 3Tier</a>(AWS 3TIer)</h4>
+  </div>
+  <div markdown="1">
+    <h4><a href="https://github.com/BAE-JI-WANG/btc_AWeSomeFinal">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)</h4>
   </div>
 </details>
 
@@ -41,17 +53,7 @@
   </div>
 </details>
 
-<h3>BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12</h3> 
-<h4>Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..</h4>
-<details>
-  <summary style="color:red">Related project</summary>
-  <div markdown="1">
-    <h4><a href="https://github.com/BAE-JI-WANG/AWS3_3Tier">Spring petclinic 3Tier</a>(AWS 3TIer)</h4>
-  </div>
-  <div markdown="1">
-    <h4><a href="https://github.com/BAE-JI-WANG/btc_AWeSomeFinal">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)</h4>
-  </div>
-</details>
+
 
 <div align=center><h1>Awards</h1></div>
 <h3>HuStar Daegu Innovation Academy Creative-Day Encouragement Award</h3>
