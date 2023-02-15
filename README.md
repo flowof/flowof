@@ -147,7 +147,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flowof&layout=compact&theme=tokyonight)
 
 
-![Profile views](https://gpvc.arturio.dev/BAE-JI-WANG)  
+![Profile views](https://gpvc.arturio.dev/flowof)  
 
 ----
 
