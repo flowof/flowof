@@ -72,6 +72,7 @@ Here are some ideas to get you started:
   </div>
 </details>
 
+<!-- AZ자격증 -->
 <div align=center><h1>Certificate</h1></div>
 <h3>Microsoft Certified: Azure Fundamentals</h3> 
 
