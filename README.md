@@ -10,11 +10,9 @@
 
 <h3>프로젝트기반AI빅데이터융합인재양성과정(K-Dgital) - 2021.01 ~ 2021.08</h3>
 <h4>통계, 파이썬을 기초로 머신러닝 딥러닝 교육 이수</h4>
-<details>
   <div>
     <h4><a href="https://github.com/flowof/KDT-statistics">통계</a></h4>
   </div>
-</details>
 
 <h3>BespinGlobal Techcenter클라우드청년인재양성과정 - 2022.05 ~ 2022.12</h3> 
 <h4>Basic learning of Network, Linux, AWS, Azure, GCP, Docker, k8s, etc..</h4>
