@@ -27,7 +27,7 @@
 <details>
   <summary style="color:red">Related project</summary>
   <div markdown="1">
-    <h4><a href="https://github.com/flowof/KDT-statistics">Public library Information</a></h4>
+    <h4><a href="https://github.com/flowof/KDT-statistics">통계</a></h4>
   </div>
 </details>
 
