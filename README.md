@@ -25,12 +25,13 @@ Here are some ideas to get you started:
 <a href="mailto:01140114mjp@donga.ac.kr"><img src="https://img.shields.io/badge/01140114mjp@donga.ac.kr-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/minjoo-park-21974525b/"><img src="https://img.shields.io/badge/Minjoo Park-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
+
 <!-- 이름 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=250&section=header&text=MINJOO%20PARK&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <div align=center><h1>Career & Academy</h1></div>
 <h3>Woobo ENG - 2018.10 ~ 2021.01 : PowerSystem design engineer</h3> 
-<h3>[K-digital] Bigdata Developer training course - 2021.01 ~ 2021.08</h3>
+<h3>[K-digital] 프로젝트기반AI빅데이터융합인재양성과정 - 2021.01 ~ 2021.08</h3>
 <h4>Basic learning of development language(C, C#, Java, Python, R)</h4>
 <details>
   <summary style="color:red">Related project</summary>
