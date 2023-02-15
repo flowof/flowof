@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <!-- [<img src='https://img.shields.io/badge/bjy502@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white' alt='gmail' height='30'>](bjy502@gmail.com)
 [<img src='https://img.shields.io/badge/MINJOO PARK-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/jiwang-bae-ab3802206/)   -->
 
-<!-- 메일배지 -->
-<a href="mailto:0114mjp@naver.com"><img src="https://img.shields.io/badge/0114mjp@naver.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<!-- 메일,링크드인 배지 -->
+<a href="mailto:01140114mjp@donga.ac.kr"><img src="https://img.shields.io/badge/01140114mjp@donga.ac.kr-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jiwang-bae-ab3802206/"><img src="https://img.shields.io/badge/Jiwang Bae-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
 <!-- 이름 -->
