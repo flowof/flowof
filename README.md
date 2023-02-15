@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 ![microsoft-certified-azure-fundamentals (2)](https://user-images.githubusercontent.com/59479926/200098689-3f259eab-bb40-4d0e-9461-2e01c57e6208.png)
 
 <h3>AWS Certified Solutions Architect - Associate</h3> 
-![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/99170756/218976386-ae863d8c-6899-4069-8a39-44d2898d9164.png)
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/99170756/218972278-0805f1ce-438c-43cd-aedd-a7dd3d1a978e.png)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
