@@ -153,10 +153,14 @@
 
 ## 🔭 Project
 
-### [스마트 안전관리 플랫폼 "안전모두"] (https://github.com/BAE-JI-WANG/SatetyAll_HW-FW)
-### [소비자용 유통기한관리 어플리케이션 "언제무꼬"] (https://github.com/BAE-JI-WANG/whenToEat)
+### [Mini_TeamProject] AWS 2-Tier 구축
+### [Semi_TeamProject] AWS 3-Tier 구축 (https://github.com/BAE-JI-WANG/SatetyAll_HW-FW)
+### [Mini_TeamProject]k8s https://github.com/BAE-JI-WANG/whenToEat)
+### [Mini_TeamProject] Terraform AWS 2-Tier 구축
+### [PersonalProject] 
+### [FInal_TeamProject] Sock-shop 기반 MSA
 ### [공공도서관 통합 플랫폼] (https://github.com/BAE-JI-WANG/Libray_search)
-### [개발자 커뮤니티 "가치코딩"] (https://github.com/deco-gachicoding)
+
 ### ["비용절약을 위해 오픈소스를 활용한 EKS 환경 웹서비스"] (https://github.com/BAE-JI-WANG/btc_AWeSomeFinal)
 
 
