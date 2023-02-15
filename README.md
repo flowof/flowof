@@ -1,12 +1,6 @@
 ### Hi there 👋
 
 <!--
-**flowof/flowof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h1></h1>
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,9 +12,6 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- [<img src='https://img.shields.io/badge/bjy502@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white' alt='gmail' height='30'>](bjy502@gmail.com)
-[<img src='https://img.shields.io/badge/MINJOO PARK-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/jiwang-bae-ab3802206/)   -->
-
 <!-- 메일,링크드인 배지 -->
 <a href="mailto:01140114mjp@donga.ac.kr"><img src="https://img.shields.io/badge/01140114mjp@donga.ac.kr-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/minjoo-park-21974525b/"><img src="https://img.shields.io/badge/Minjoo Park-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
@@ -30,9 +21,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=250&section=header&text=MINJOO%20PARK&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <div align=center><h1>Career & Academy</h1></div>
-<h3>Woobo ENG - 2018.10 ~ 2021.01 : PowerSystem design engineer</h3> 
+
 <h3>[K-digital] 프로젝트기반AI빅데이터융합인재양성과정 - 2021.01 ~ 2021.08</h3>
-<h4>Basic learning of development language(C, C#, Java, Python, R)</h4>
+<h4>통계, 파이썬을 기초로 머신러닝 딥러닝 교육 이수</h4>
 <details>
   <summary style="color:red">Related project</summary>
   <div markdown="1">
