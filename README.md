@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 <h3>AWS Certified Solutions Architect - Associate</h3> 
 
-<img width="80%" src="https://user-images.githubusercontent.com/99170756/218972278-0805f1ce-438c-43cd-aedd-a7dd3d1a978e.png"/>
+<img width="30%" src="https://user-images.githubusercontent.com/99170756/218972278-0805f1ce-438c-43cd-aedd-a7dd3d1a978e.png"/>
 <div align=center><h1>📚 STACKS</h1></div>
 
 ### CSP
