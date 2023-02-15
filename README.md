@@ -72,15 +72,19 @@ Here are some ideas to get you started:
   </div>
 </details>
 
-<!-- AZ자격증 -->
+<!-- 자격증 -->
+<!--
 <div align=center><h1>Certificate</h1></div>
 <h3>Microsoft Certified: Azure Fundamentals</h3> 
 
 ![microsoft-certified-azure-fundamentals (2)](https://user-images.githubusercontent.com/59479926/200098689-3f259eab-bb40-4d0e-9461-2e01c57e6208.png)
-
+-->
 <h3>AWS Certified Solutions Architect - Associate</h3> 
 
 <img width="10%" src="https://user-images.githubusercontent.com/99170756/218972278-0805f1ce-438c-43cd-aedd-a7dd3d1a978e.png"/>
+
+<h3>데이터분석 준전문가(ADsP : Advanced Data Analytics Semi-Professional)</h3> 
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 ### CSP
