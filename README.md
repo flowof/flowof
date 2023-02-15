@@ -16,8 +16,20 @@
       <a href="https://github.com/flowof/KDT-statistics">통계Git</a>
     </div>
   </li>
-  <li>Java</li>
-  <li>C++</li>
+  <li>
+    <div><a href="https://github.com/flowof/KDT-numpy_pandas">넘파이&판다스Git</a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a href="https://github.com/flowof/KDT-ML">머신러닝Git</a>
+    </div>
+  </li>
+    <li>
+      <div>
+        <a href="https://github.com/flowof/KDT-DL">딥러닝Git</a>
+    </div>
+  </li>
 </ul>
 
 
