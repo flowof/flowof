@@ -10,42 +10,40 @@
 
 <h3>프로젝트기반AI빅데이터융합인재양성과정(K-Dgital) - 2021.01 ~ 2021.08</h3>
 <h4>통계, 파이썬을 기초로 머신러닝 딥러닝 교육 이수</h4>
-<ul>
-  <li>
-    <div>
-      <a href="https://github.com/flowof/KDT-statistics">통계Git</a>
-    </div>
-  </li>
-  <li>
-    <div><a href="https://github.com/flowof/KDT-numpy_pandas">넘파이&판다스Git</a>
-    </div>
-  </li>
-  <li>
-    <div>
-      <a href="https://github.com/flowof/KDT-ML">머신러닝Git</a>
-    </div>
-  </li>
+<details>
+  <summary style="color:red">Related education</summary>
+  <div markdown="1">
+  <ul>
+    <li><div><a href="https://github.com/flowof/KDT-statistics">통계Git</a></div>
+    </li>
     <li>
-      <div>
-        <a href="https://github.com/flowof/KDT-DL">딥러닝Git</a>
-    </div>
-  </li>
-</ul>
+      <div><a href="https://github.com/flowof/KDT-numpy_pandas">넘파이&판다스Git</a></div>
+    </li>
+    <li>
+      <div><a href="https://github.com/flowof/KDT-ML">머신러닝Git</a></div>
+    </li>
+    <li><div><a href="https://github.com/flowof/KDT-DL">딥러닝Git</a></div>
+    </li>
+  </ul>
+  </div>
 
 
-<h3>BespinGlobal Techcenter클라우드청년인재양성과정 - 2022.05 ~ 2022.12</h3> 
+
+<h3>BespinGlobal Techcenter 클라우드청년인재양성과정 - 2022.05 ~ 2022.12</h3> 
 <h4>Basic learning of Network, Linux, AWS, Azure, GCP, Docker, k8s, etc..</h4>
 <details>
+  <summary style="color:red">Related education</summary>
+  <div markdown="1">
+    <a href="~~~~">Spring petclinic 3Tier</a>(AWS 3TIer)
+  </div>
+  <div markdown="1">
+    <a href="~~~~">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)
+  </div>
   <summary style="color:red">Related project</summary>
-  <div markdown="1">
-    <h4><a href="https://github.com/BAE-JI-WANG/AWS3_3Tier">Spring petclinic 3Tier</a>(AWS 3TIer)</h4>
-  </div>
-  <div markdown="1">
-    <h4><a href="https://github.com/BAE-JI-WANG/btc_AWeSomeFinal">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)</h4>
-  </div>
+  <div markdown="1"></div>
 </details>
 
-<h3>HuStar ICT Innovation Academy - 2021.09 ~ 2022.02</h3>
+<h3>ERP실무 - 2021.03 ~ 2021.06</h3>
 <h4>Learning of Android App, FirmWare, HardWare</h4>
 <details>
   <summary style="color:red">Related project</summary>
