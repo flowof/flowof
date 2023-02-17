@@ -33,9 +33,14 @@
 <details>
   <summary style="color:red">Related education</summary>
   <div markdown="1">
-  <ul>
-    <li><div></div>
-    </li>
+<details>
+  <summary style="color:red">Related education</summary>
+  <div markdown="1">
+    <a href="~~~~">Spring petclinic 3Tier</a>(AWS 3TIer)
+  </div>
+  <div markdown="1">
+    <a href="~~~~">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)
+  </div>
   </ul>
   </div>
 </details>
