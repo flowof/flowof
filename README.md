@@ -1,13 +1,22 @@
 <!-- 메일,링크드인 배지 -->
 <a href="mailto:01140114mjp@donga.ac.kr"><img src="https://img.shields.io/badge/01140114mjp@donga.ac.kr-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/minjoo-park-21974525b/"><img src="https://img.shields.io/badge/Minjoo Park-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <a href="https://www.notion.so/Park-Minjoo-589cec5a432346a69849dd526975c410?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/minjoo-park-21974525b/"><img src="https://img.shields.io/badge/Minjoo Park-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
 <!-- 이름 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=250&section=header&text=MINJOO%20PARK&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <div align=center><h1>Career & Academy</h1></div>
 
+<h3>AI 기초 교육과정 - 2019.07 ~ 2021.08</h3> 
+<h4>파이썬 기초, 데이콘 경진대회 참가 및 부동산 가격 예측 EDA 등..</h4>
+<details>
+  <summary style="color:red">Related education</summary>
+  <div markdown="1">
+    <a href="https://github.com/flowof/AIbasicCLUB">Git</a>
+  </div>
+</details>
+  
 <h3>프로젝트기반AI빅데이터융합인재양성과정(K-Dgital) - 2021.01 ~ 2021.08</h3>
 <h4>통계, 파이썬을 기초로 머신러닝 딥러닝 교육 이수</h4>
 <details>
@@ -23,6 +32,18 @@
       <div><a href="https://github.com/flowof/KDT-ML">머신러닝Git</a></div>
     </li>
     <li><div><a href="https://github.com/flowof/KDT-DL">딥러닝Git</a></div>
+    </li>
+  </ul>
+  </div>
+</details>
+<details>
+  <summary style="color:red">Related project</summary>
+  <div markdown="1">
+  <ul>
+    <li><div><a href="~~~">웹툰다이어리</a></div>
+    </li>
+    <li>
+      <div><a href="~~~~">견종탐지</a></div>
     </li>
   </ul>
   </div>
@@ -54,27 +75,7 @@
   </div>
 </details>
 
-<h3>ERP실무 - 2021.03 ~ 2021.06</h3>
-<h4>Learning of Android App, FirmWare, HardWare</h4>
-<details>
-  <summary style="color:red">Related project</summary>
-  <div markdown="1">
-    <h4><a href="https://github.com/BAE-JI-WANG/whenToEat">Shelf life management</a>(Java Android App)</h4>
-    <h4><a href="https://github.com/BAE-JI-WANG/SatetyAll_HW-FW">Safety management IOT System H/W,F/W parts</a>(Front:React & Android App, Backend:PHP, F/W:C++,arduino)</h4>
-  </div>
-</details>
 
-
-
-<div align=center><h1>Awards</h1></div>
-<h3>HuStar Daegu Innovation Academy Creative-Day Encouragement Award</h3>
-<h4>Role : LAMP Stack Backend & HW,FW</h4>
-<details>
-  <summary style="color:red">Related project</summary>
-  <div markdown="1">
-    <h4><a href="https://github.com/BAE-JI-WANG/SatetyAll_HW-FW">Safety management IOT System H/W,F/W parts</a>(Front:React & Android App, Backend:PHP, F/W:C++,arduino)</h4>
-  </div>
-</details>
 
 <!-- 자격증 -->
 <!--
