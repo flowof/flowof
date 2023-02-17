@@ -26,7 +26,7 @@
     </li>
   </ul>
   </div>
-
+</details>
 
 
 <h3>BespinGlobal Techcenter 클라우드청년인재양성과정 - 2022.05 ~ 2022.12</h3> 
