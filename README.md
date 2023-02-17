@@ -28,19 +28,25 @@
   </div>
 </details>
 
-
 <h3>BespinGlobal Techcenter 클라우드청년인재양성과정 - 2022.05 ~ 2022.12</h3> 
 <h4>Basic learning of Network, Linux, AWS, Azure, GCP, Docker, k8s, etc..</h4>
 <details>
   <summary style="color:red">Related education</summary>
+  <div markdown="1">
+  <ul>
+    <li><div></div>
+    </li>
+  </ul>
+  </div>
+</details>
+<details>
+  <summary style="color:red">Related project</summary>
   <div markdown="1">
     <a href="~~~~">Spring petclinic 3Tier</a>(AWS 3TIer)
   </div>
   <div markdown="1">
     <a href="~~~~">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)
   </div>
-  <summary style="color:red">Related project</summary>
-  <div markdown="1"></div>
 </details>
 
 <h3>ERP실무 - 2021.03 ~ 2021.06</h3>
