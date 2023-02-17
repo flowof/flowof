@@ -6,8 +6,8 @@
 <!-- 이름 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=250&section=header&text=MINJOO%20PARK&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
+<!-- 이수교육 -->
 <div align=center><h1>Career & Academy</h1></div>
-
 <h3>AI 기초 교육과정 - 2019.07 ~ 2021.08</h3> 
 <h4>파이썬 기초, 데이콘 경진대회 참가 및 부동산 가격 예측 EDA 등..</h4>
 <details>
@@ -54,10 +54,7 @@
 <details>
   <summary style="color:red">Related education</summary>
   <div markdown="1">
-<details>
-  <summary style="color:red">Related education</summary>
-  <div markdown="1">
-    <a href="~~~~">Spring petclinic 3Tier</a>(AWS 3TIer)
+    <a href="">[Semi_TeamProject] AWS Spring petclinic 3-Tier 구축</a>
   </div>
   <div markdown="1">
     <a href="~~~~">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)
@@ -68,7 +65,7 @@
 <details>
   <summary style="color:red">Related project</summary>
   <div markdown="1">
-    <a href="~~~~">Spring petclinic 3Tier</a>(AWS 3TIer)
+    <a href="https://www.notion.so/Semi_TeamProject-3Tier-ACM-Cloudfront-Route53-d4577335ee394bbdac08f701fb65da07?pvs=4">[Semi_TeamProject] AWS Spring petclinic 3-Tier 구축</a>
   </div>
   <div markdown="1">
     <a href="~~~~">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)
@@ -78,17 +75,24 @@
 
 
 <!-- 자격증 -->
+<div align=center><h1>Certificate</h1></div>
+<ul>
+  <li>
+    AWS Certified Solutions Architect - Associate
+  </li> 
+  <li>
+    데이터분석 준전문가(ADsP : Advanced Data Analytics Semi-Professional)
+  </li>
+</ul> 
 <!--
 <div align=center><h1>Certificate</h1></div>
 <h3>Microsoft Certified: Azure Fundamentals</h3> 
 
 ![microsoft-certified-azure-fundamentals (2)](https://user-images.githubusercontent.com/59479926/200098689-3f259eab-bb40-4d0e-9461-2e01c57e6208.png)
+
+<img align=right width="10%" src="https://user-images.githubusercontent.com/99170756/218972278-0805f1ce-438c-43cd-aedd-a7dd3d1a978e.png"/>
 -->
-<h3>AWS Certified Solutions Architect - Associate</h3> 
 
-<img width="10%" src="https://user-images.githubusercontent.com/99170756/218972278-0805f1ce-438c-43cd-aedd-a7dd3d1a978e.png"/>
-
-<h3>데이터분석 준전문가(ADsP : Advanced Data Analytics Semi-Professional)</h3> 
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -164,7 +168,7 @@
 ## 🔭 Project
 
 ### [Mini_TeamProject] AWS 2-Tier 구축
-### [Semi_TeamProject] AWS 3-Tier 구축 (https://github.com/BAE-JI-WANG/SatetyAll_HW-FW)
+### [Semi_TeamProject] AWS 3-Tier 구축 (https://www.notion.so/Semi_TeamProject-3Tier-ACM-Cloudfront-Route53-d4577335ee394bbdac08f701fb65da07?pvs=4)
 ### [Mini_TeamProject]k8s https://github.com/BAE-JI-WANG/whenToEat)
 ### [Mini_TeamProject] Terraform AWS 2-Tier 구축
 ### [PersonalProject] 
