@@ -169,7 +169,7 @@
 
 ### [Mini_TeamProject] AWS 2-Tier 구축
 ### [Semi_TeamProject] AWS 3-Tier 구축 (https://www.notion.so/Semi_TeamProject-3Tier-ACM-Cloudfront-Route53-d4577335ee394bbdac08f701fb65da07?pvs=4)
-### [Mini_TeamProject]k8s https://github.com/BAE-JI-WANG/whenToEat)
+### [Mini_TeamProject]k8s 
 ### [Mini_TeamProject] Terraform AWS 2-Tier 구축
 ### [PersonalProject] 
 ### [FInal_TeamProject] Sock-shop 기반 MSA
