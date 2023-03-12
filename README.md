@@ -112,11 +112,17 @@
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <!--vscode-->
 <img src="https://img.shields.io/badge/R Studio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">  <!--R Studio-->
+<img src="https://img.shields.io/badge/R Studio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">  <!--R Studio-->
+<img src="https://img.shields.io/badge/Jupyter Notebook-#F37626?style=for-the-badge&logo=Jupyter&logoColor=white">  <!--Jupyter Notebook-->
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">  <!--Google Colab-->
+
 
 ### Database
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <!--oracle-->
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">  <!--SQLite-->
+
 
 ### Framework
 
