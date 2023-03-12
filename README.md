@@ -99,38 +99,30 @@
 ### CSP
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--aws-->
-<img src="https://img.shields.io/badge/GCP-0078D4?style=for-the-badge&logo=GCP&logoColor=white"> <!--GCP-->
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=GCP&logoColor=white"> <!--GCP-->
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"> <!--azure-->
 
 ### Language
 
 <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=c&logoColor=white">  <!--Python-->
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">  <!--rust-->
-<img src="https://img.shields.io/badge/c%23-007396?style=for-the-badge&logo=Csharp&logoColor=white">  <!--c#-->
+<img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=Rust&logoColor=white">  <!--R-->
+<img src="https://img.shields.io/badge/R Studio-007396?style=for-the-badge&logo=Csharp&logoColor=white">  <!--R Studio-->
 <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=java&logoColor=white">  <!--자바-->
 
 ### Tools
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <!--vscode-->
-<img src="https://img.shields.io/badge/Arduino IDE-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <!--arduinoIDE-->
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> <!--vs-->
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <!--eclipse-->
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> <!--androidstudio-->
-<img src="https://img.shields.io/badge/AutoCad-007396?style=for-the-badge&logo=Autodesk&logoColor=white">  <!--오토캐드-->
 
 
 ### Database
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <!--oracle-->
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
-<img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">  <!--mssql-->
 
 ### Framework
 
 <!-- <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <!--apachetomcat--> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  <!--spring-->
-<img src="https://img.shields.io/badge/.NET winform-512BD4?style=for-the-badge&logo=.NET&logoColor=white">  <!--.Net -->
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">  <!--android-->
 
 ### IaC
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">  <!--terraform-->
@@ -142,8 +134,6 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">  <!--jenkins-->
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white">  <!--argocd-->
 
-### ServiceMesh
-<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white">  <!--Istio-->
 
 ### Monitoring
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">  <!--Prometheus-->
