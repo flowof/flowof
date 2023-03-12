@@ -111,7 +111,7 @@
 ### Tools
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <!--vscode-->
-<img src="https://img.shields.io/badge/R Studio-75AADB?style=for-the-badge&logo=R Studio&logoColor=white">  <!--R Studio-->
+<img src="https://img.shields.io/badge/R Studio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">  <!--R Studio-->
 
 ### Database
 
