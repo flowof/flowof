@@ -99,22 +99,19 @@
 ### CSP
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--aws-->
-<img src="https://img.shields.io/badge/GCP-#4285F4?style=for-the-badge&logo=GCP&logoColor=white"> <!--GCP-->
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--GCP-->
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"> <!--azure-->
 
 ### Language
 
-<img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=c&logoColor=white">  <!--Python-->
-<img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=Rust&logoColor=white">  <!--R-->
-<img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=Rust&logoColor=white">  <!--R-->
+<img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=Python&logoColor=white">  <!--Python-->
+<img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=R&logoColor=white">  <!--R-->
 
-
-<img src="https://img.shields.io/badge/R Studio-007396?style=for-the-badge&logo=Csharp&logoColor=white">  <!--R Studio-->
-<img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=java&logoColor=white">  <!--자바-->
 
 ### Tools
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <!--vscode-->
+<img src="https://img.shields.io/badge/R Studio-007396?style=for-the-badge&logo=R Studio&logoColor=white">  <!--R Studio-->
 
 ### Database
 
