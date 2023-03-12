@@ -142,9 +142,7 @@
 ### Monitoring
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">  <!--Prometheus-->
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">  <!--Grafana-->
-<img src="https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge&logo=Fluentd&logoColor=white">  <!--Fluentd-->
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">  <!--Elasticsearch-->
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">  <!--Kibana-->
+
 
 ### Container
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">  <!--Docker-->
