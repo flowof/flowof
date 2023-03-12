@@ -104,14 +104,14 @@
 
 ### Language
 
-<img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=Python&logoColor=white">  <!--Python-->
-<img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=R&logoColor=white">  <!--R-->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <!--Python-->
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <!--R-->
 
 
 ### Tools
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <!--vscode-->
-<img src="https://img.shields.io/badge/R Studio-007396?style=for-the-badge&logo=R Studio&logoColor=white">  <!--R Studio-->
+<img src="https://img.shields.io/badge/R Studio-75AADB?style=for-the-badge&logo=R Studio&logoColor=white">  <!--R Studio-->
 
 ### Database
 
