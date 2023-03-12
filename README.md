@@ -106,13 +106,15 @@
 
 <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=c&logoColor=white">  <!--Python-->
 <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=Rust&logoColor=white">  <!--R-->
+<img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=Rust&logoColor=white">  <!--R-->
+
+
 <img src="https://img.shields.io/badge/R Studio-007396?style=for-the-badge&logo=Csharp&logoColor=white">  <!--R Studio-->
 <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=java&logoColor=white">  <!--자바-->
 
 ### Tools
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <!--vscode-->
-
 
 ### Database
 
