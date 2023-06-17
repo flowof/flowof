@@ -68,7 +68,7 @@
     <a href="https://www.notion.so/Semi_TeamProject-3Tier-ACM-Cloudfront-Route53-d4577335ee394bbdac08f701fb65da07?pvs=4">[Semi_TeamProject] AWS Spring petclinic 3-Tier 구축</a>
   </div>
   <div markdown="1">
-    <a href="~~~~">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)
+    <a href="https://truth-goat-58a.notion.site/Mini-AWS-k8s-3Tier-9cd1a1e59ec7481d9b1cfc94355ab347?pvs=4">[Mini] AWS k8s 기반 3Tier 인프라 구축</a>
   </div>
 </details>
 
