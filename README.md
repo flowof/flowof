@@ -40,11 +40,11 @@
   <summary style="color:red">Related project</summary>
   <div markdown="1">
   <ul>
-    <li><div><a href="~~~">웹툰다이어리</a></div>
+    <li><div><a href="https://github.com/flowof/KDT-MiniProject">웹툰다이어리</a></div>
     </li>
-    <li>
+<!--     <li>
       <div><a href="~~~~">견종탐지</a></div>
-    </li>
+    </li> -->
   </ul>
   </div>
 </details>
