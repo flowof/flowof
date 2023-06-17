@@ -68,28 +68,28 @@
     <a href="https://www.notion.so/Semi_TeamProject-3Tier-ACM-Cloudfront-Route53-d4577335ee394bbdac08f701fb65da07?pvs=4">[Semi_TeamProject] AWS Spring petclinic 3-Tier 구축</a>
   </div>
   <div markdown="1">
-    <a href="https://truth-goat-58a.notion.site/Mini-AWS-k8s-3Tier-9cd1a1e59ec7481d9b1cfc94355ab347?pvs=4">[Mini] AWS k8s 기반 3Tier 인프라 구축</a>
+    <a href="https://truth-goat-58a.notion.site/Mini-AWS-k8s-3Tier-9cd1a1e59ec7481d9b1cfc94355ab347?pvs=4">[Mini] AWS k8s 기반 3Tier 인프라 구축 Notion</a>
   </div>
   <div markdown="1">
-    <a href="https://www.notion.so/Mini-NCP-3Tier-0052e7ea50a64617a1873178a780f98b?pvs=4">[Mini] NCP 3Tier 인프라 구축</a>
+    <a href="https://www.notion.so/Mini-NCP-3Tier-0052e7ea50a64617a1873178a780f98b?pvs=4">[Mini] NCP 3Tier 인프라 구축 Notion</a>
   </div>
   <div markdown="1">
-    <a href="https://truth-goat-58a.notion.site/Mini-AWS-Terraform-3Tier-9f9f44b35c3c4b42ae59d0f03e9246ae?pvs=4">[Mini] AWS Terraform 기반 3Tier 인프라 구축</a>
+    <a href="https://truth-goat-58a.notion.site/Mini-AWS-Terraform-3Tier-9f9f44b35c3c4b42ae59d0f03e9246ae?pvs=4">[Mini] AWS Terraform 기반 3Tier 인프라 구축 Notion</a>
   </div>
   <div markdown="1">
-    <a href="https://truth-goat-58a.notion.site/Mini-AWS-2Tier-1e32dfed15ae4c029ba9b063164e8301?pvs=4">[Mini] AWS 2Tier 인프라 구축</a>
+    <a href="https://truth-goat-58a.notion.site/Mini-AWS-2Tier-1e32dfed15ae4c029ba9b063164e8301?pvs=4">[Mini] AWS 2Tier 인프라 구축 Notion</a>
   </div>
   <div markdown="1">
-    <a href="https://truth-goat-58a.notion.site/Mini-AWS-2Tier-1e32dfed15ae4c029ba9b063164e8301?pvs=4">[Mini] AWS 2Tier 인프라 구축</a>
+    <a href="https://truth-goat-58a.notion.site/Mini-AWS-2Tier-1e32dfed15ae4c029ba9b063164e8301?pvs=4">[Mini] AWS 2Tier 인프라 구축 Notion</a>
   </div>
   <div markdown="1">
-    <a href="https://truth-goat-58a.notion.site/Personal-Terraform-2Tier-c9d7c8208c3e4696b28e84aa15cf0815?pvs=4">[Personal] Terraform 기반 2Tier 인프라 구축</a>
+    <a href="https://truth-goat-58a.notion.site/Personal-Terraform-2Tier-c9d7c8208c3e4696b28e84aa15cf0815?pvs=4">[Personal] Terraform 기반 2Tier 인프라 구축 Notion</a>
   </div>
   <div markdown="1">
-    <a href="https://truth-goat-58a.notion.site/Personal-Azure-2Tier-5782b1d13dd44355a380237ff06e0c4d?pvs=4">[Personal] Azure 2Tier 인프라 구축</a>
+    <a href="https://truth-goat-58a.notion.site/Personal-Azure-2Tier-5782b1d13dd44355a380237ff06e0c4d?pvs=4">[Personal] Azure 2Tier 인프라 구축 Notion</a>
   </div>
   <div markdown="1">
-    <a href="https://truth-goat-58a.notion.site/Final-AWS-MSA-9beb7894a7ea47f3954f2aac1df7e1e0?pvs=4">[Final] AWS MSA 인프라 구축</a>
+    <a href="https://truth-goat-58a.notion.site/Final-AWS-MSA-9beb7894a7ea47f3954f2aac1df7e1e0?pvs=4">[Final] AWS MSA 인프라 구축 Notion</a>
   </div>
 </details>
 
